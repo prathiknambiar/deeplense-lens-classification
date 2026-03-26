@@ -40,6 +40,13 @@ Fine-tuned **ResNet18** (ImageNet pretrained) with:
 
 ---
 
+## Weights
+
+Pretrained model weights available via Google Drive:
+- [best_lens_resnet.pth](https://drive.google.com/file/d/17OixSTVqs0pXqc2hbv_6wdQWWLImcoeL/view?usp=sharing) — Common Test I (ResNet18)
+
+---
+
 ## Dataset
 
 DeepLense dataset — not included due to size.  
